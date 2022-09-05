@@ -1,6 +1,6 @@
 # Cli Games
 
-Make School Tutorial (https://makeschool.org/mediabook/oa/tutorials/make-games-with-python-soy/installing-python/)
+[Make School Tutorial](https://makeschool.org/mediabook/oa/tutorials/make-games-with-python-soy/installing-python/)
 
 ## Useful Resources
 
